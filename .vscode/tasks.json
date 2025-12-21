@@ -1,0 +1,45 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "dev",
+			"type": "shell",
+			"command": "pnpm"
+		},
+		{
+			"label": "dev",
+			"type": "shell",
+			"command": "pnpm"
+		},
+		{
+			"label": "dev",
+			"type": "shell",
+			"command": "pnpm"
+		},
+		{
+			"label": "dev",
+			"type": "shell",
+			"command": "pnpm"
+		},
+		{
+			"label": "dev",
+			"type": "shell",
+			"command": "pnpm dev"
+		},
+		{
+			"label": "dev-3000",
+			"type": "shell",
+			"command": "pnpm dev --port 3000"
+		},
+		{
+			"label": "dev-3000",
+			"type": "shell",
+			"command": "pnpm dev --port 3000"
+		},
+		{
+			"label": "dev-3000",
+			"type": "shell",
+			"command": "pnpm dev --port 3000"
+		}
+	]
+}

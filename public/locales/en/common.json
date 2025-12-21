@@ -1,0 +1,16 @@
+{
+  "hero": {
+    "title": "Order Food Online from Your Favorite Restaurants",
+    "subtitle": "Get delicious food delivered to your doorstep in minutes",
+    "searchPlaceholder": "Search food, restaurants, offers...",
+    "findFood": "Find Food"
+  },
+  "categories": {
+    "title": "Explore Categories",
+    "subtitle": "Browse by cuisine type and discover your next favorite meal"
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "subtitle": "Join thousands of satisfied customers who love ordering with Feast"
+  }
+}
