@@ -43,7 +43,7 @@ A modern, full-stack food delivery application built with Next.js, TypeScript, a
    pnpm dev
    ```
 
-5. Open [http://localhost:3000](http://localhost:3000) in your browser.
+5. Open (https://food-delivery-five-ebon.vercel.app/) in your browser.
 
 ## Project Structure
 
